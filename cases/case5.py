@@ -1,6 +1,7 @@
 from .base import Case
 
 case_5 = Case(
+    "case 5",
     681,
     [
         5,
